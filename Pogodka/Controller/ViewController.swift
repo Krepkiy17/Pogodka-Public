@@ -1,8 +1,8 @@
 import UIKit
 import CoreLocation
 
+
 final class WeatherViewController: UIViewController {
-    
     
     @IBOutlet private var conditionImageView: UIImageView!
     @IBOutlet private var temperatureLabel: UILabel!
