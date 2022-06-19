@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  Pogodka
-//
-//  Created by Xcoder on 19.06.2022.
-//
-
 import UIKit
 
 @main
